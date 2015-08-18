@@ -27,23 +27,23 @@
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify/assert",
-			"Comment": "v1.0-12-g7e4a149",
-			"Rev": "7e4a149930b09fe4c2b134c50ce637457ba6e966"
+			"Comment": "v1.0-21-gf552045",
+			"Rev": "f5520455607c0233cb6d7b056f71b22c1d265ef1"
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify/mock",
-			"Comment": "v1.0-12-g7e4a149",
-			"Rev": "7e4a149930b09fe4c2b134c50ce637457ba6e966"
+			"Comment": "v1.0-21-gf552045",
+			"Rev": "f5520455607c0233cb6d7b056f71b22c1d265ef1"
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify/require",
-			"Comment": "v1.0-12-g7e4a149",
-			"Rev": "7e4a149930b09fe4c2b134c50ce637457ba6e966"
+			"Comment": "v1.0-21-gf552045",
+			"Rev": "f5520455607c0233cb6d7b056f71b22c1d265ef1"
 		},
 		{
 			"ImportPath": "github.com/stretchr/testify/suite",
-			"Comment": "v1.0-12-g7e4a149",
-			"Rev": "7e4a149930b09fe4c2b134c50ce637457ba6e966"
+			"Comment": "v1.0-21-gf552045",
+			"Rev": "f5520455607c0233cb6d7b056f71b22c1d265ef1"
 		},
 		{
 			"ImportPath": "golang.org/x/net/context",
