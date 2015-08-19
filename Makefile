@@ -25,7 +25,7 @@ format:
 	gofmt -s -w .
 
 formatted:
-	! gofmt -s -d . 2>&1 | read diff
+	! gofmt -s -l . | grep -v -e ^Godeps/
 
 vet:
 	go vet ./...
